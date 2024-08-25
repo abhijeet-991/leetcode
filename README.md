@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/abhijeet-991/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
