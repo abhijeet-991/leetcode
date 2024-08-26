@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
