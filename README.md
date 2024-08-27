@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhijeet-991/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/abhijeet-991/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -45,14 +46,21 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhijeet-991/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhijeet-991/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/abhijeet-991/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhijeet-991/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
