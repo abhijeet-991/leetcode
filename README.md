@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhijeet-991/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhijeet-991/leetcode/tree/master/0015-3sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/abhijeet-991/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
