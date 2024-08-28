@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/abhijeet-991/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0075-sort-colors](https://github.com/abhijeet-991/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
