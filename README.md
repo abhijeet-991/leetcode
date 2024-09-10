@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 | [0907-koko-eating-bananas](https://github.com/abhijeet-991/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeet-991/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -101,6 +102,7 @@
 | [0493-reverse-pairs](https://github.com/abhijeet-991/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/abhijeet-991/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeet-991/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
