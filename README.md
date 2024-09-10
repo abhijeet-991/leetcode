@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/abhijeet-991/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/abhijeet-991/leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/abhijeet-991/leetcode/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -95,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/abhijeet-991/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet-991/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/abhijeet-991/leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
