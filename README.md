@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abhijeet-991/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhijeet-991/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhijeet-991/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/abhijeet-991/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/abhijeet-991/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet-991/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhijeet-991/leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/abhijeet-991/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/abhijeet-991/leetcode/tree/master/0907-koko-eating-bananas) |
