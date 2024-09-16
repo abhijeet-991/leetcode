@@ -33,11 +33,13 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeet-991/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2737-row-with-maximum-ones](https://github.com/abhijeet-991/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/abhijeet-991/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
