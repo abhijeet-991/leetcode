@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abhijeet-991/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhijeet-991/leetcode/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abhijeet-991/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
