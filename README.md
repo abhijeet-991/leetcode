@@ -34,6 +34,7 @@
 | [0907-koko-eating-bananas](https://github.com/abhijeet-991/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhijeet-991/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeet-991/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijeet-991/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/abhijeet-991/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
@@ -43,6 +44,7 @@
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-991/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/abhijeet-991/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/abhijeet-991/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeet-991/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
