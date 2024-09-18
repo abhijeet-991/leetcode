@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhijeet-991/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/abhijeet-991/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhijeet-991/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhijeet-991/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
@@ -169,5 +170,6 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhijeet-991/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhijeet-991/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhijeet-991/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhijeet-991/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
