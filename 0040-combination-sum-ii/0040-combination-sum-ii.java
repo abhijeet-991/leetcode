@@ -12,7 +12,7 @@ class Solution {
             return;
         }
 
-        if (idx >= candidates.length || target < 0) {
+        if (idx >= candidates.length) {
             return;
         }
 
@@ -20,11 +20,11 @@ class Solution {
             if (i > idx && candidates[i] == candidates[i - 1]) {
                 continue;
             }
-
-            // Include the current candidate
+            if (candidates[i] > target) {
+                return;
+            }
             arrayList.add(candidates[i]);
             combinationSum2Helper(candidates, target - candidates[i], ans, i + 1, arrayList);
-            // Backtrack
             arrayList.remove(arrayList.size() - 1);
         }
     }
