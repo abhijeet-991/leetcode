@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhijeet-991/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhijeet-991/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhijeet-991/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet-991/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhijeet-991/leetcode/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhijeet-991/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-991/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/abhijeet-991/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhijeet-991/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/abhijeet-991/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhijeet-991/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -174,5 +177,6 @@
 | [0039-combination-sum](https://github.com/abhijeet-991/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijeet-991/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhijeet-991/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhijeet-991/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhijeet-991/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
