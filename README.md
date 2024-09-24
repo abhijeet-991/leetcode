@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhijeet-991/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhijeet-991/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/abhijeet-991/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhijeet-991/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijeet-991/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
@@ -44,6 +45,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhijeet-991/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-991/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-991/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/abhijeet-991/leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijeet-991/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhijeet-991/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeet-991/leetcode/tree/master/0229-majority-element-ii) |
@@ -174,6 +177,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhijeet-991/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/abhijeet-991/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhijeet-991/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijeet-991/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhijeet-991/leetcode/tree/master/0078-subsets) |
