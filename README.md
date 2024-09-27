@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhijeet-991/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/abhijeet-991/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhijeet-991/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
@@ -166,6 +167,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhijeet-991/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/abhijeet-991/leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -183,4 +185,8 @@
 | [0078-subsets](https://github.com/abhijeet-991/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhijeet-991/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhijeet-991/leetcode/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhijeet-991/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
